@@ -1,4 +1,4 @@
-# AI-Prompt-Engineer-Level-Overview
+# AI Prompt Engineer Level-1 Overview
 
 This repository documents my learning journey through the AI-powered productivity course offered in two stages by [**NetCom Learning**](https://portal.netcomlearning.com/lp/dashboard/) + [**Microsoft Learn**](https://learn.microsoft.com/en-us/) and [**AI CERTs™**](https://learn.aicerts.io/my/courses.php). The course provided in-depth knowledge and hands-on experience in using Artificial Intelligence tools, ethics, prompt engineering, and real-world applications of AI.
 
@@ -6,13 +6,13 @@ This repository documents my learning journey through the AI-powered productivit
 
 The course was divided into three main stages:
 
-1. **Step 1** – *Delivered by NetCom Learning & Microsoft Learn*  
+1. **Step 1(Prompting with Microsoft Copilot)** – *by NetCom Learning & Microsoft Learn*  
    Focused on using Microsoft 365 Copilot and enhancing productivity through AI tools.
 
-2. **Step 2** – *Delivered by AI CERTs™ (AI+ Prompt Engineer Level 1™)*  
+2. **Step 2(AI+ Prompt Engineer™: Level 1)** – *by AI CERTs™*
    Covered foundational and ethical concepts of AI, its application across industries, and future career scopes.
 
-3. **AgentX: Build Your Own Agent**
+3. **Step 3(AgentX: Build Your Own Agent)** - *by AgentX : An AI Prompting Competition*
 
 I have completed the 1st two steps and got two certifictes along my learning journey.
 
